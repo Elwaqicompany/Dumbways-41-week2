@@ -1,0 +1,21 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+nav {
+    height: 8vh;
+}
+
+.container-fluid {
+    height: 92vh;
+}
+.container-form {
+    width: 50%;
+}
+.bg-orange {
+    background-color: orangered;
+}
+.bg-orange:hover {
+    background-color: orange;
+}

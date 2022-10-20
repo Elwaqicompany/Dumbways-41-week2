@@ -1,0 +1,9 @@
+.bg-light p {
+    text-align: justify;
+}
+.bg-light ul li {
+    list-style-type: none;
+}
+.d-flex ul li {
+    list-style-type: none;
+}
